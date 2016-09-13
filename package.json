@@ -1,0 +1,39 @@
+{
+  "name": "gig-starter-node-api-kit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon index.js --exec babel-node",
+    "fixtures": "babel-node lib/fixtures.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigigo-html5/gig-starter-node-api-kit.git"
+  },
+  "author": "Pedro José Peña <pedro.jose@gigigo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gigigo-html5/gig-starter-node-api-kit/issues"
+  },
+  "homepage": "https://github.com/gigigo-html5/gig-starter-node-api-kit#readme",
+  "dependencies": {
+    "Q": "0.0.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.0",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.1",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.13.1",
+    "babel-preset-es2015-node4": "^2.1.0",
+    "babel-preset-stage-2": "^6.13.0",
+    "babel-register": "^6.11.6",
+    "faker": "^3.1.0",
+    "nodemon": "^1.10.2"
+  }
+}
