@@ -7,9 +7,10 @@ To install all node_modules
 npm install
 ```
 ## Install Mongo
+```
 brew update
 brew install mongodb
-
+```
 ### Troubleshooting 
 ```
  sudo mkdir -p /data/db
