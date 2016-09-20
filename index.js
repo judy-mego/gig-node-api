@@ -3,7 +3,7 @@ global.__basedir = __dirname;
 global.params = require('./package.json');
 
 //Get ip
-var ip = require("ip");
+import ip from 'ip';
 
 //Dependencies
 import express from 'express';
@@ -28,11 +28,12 @@ api.routes(apiApp);
 api.handlers(apiApp);
 
 
+
 function getIpAddress() {
 	var ipAddress = ip.address();
 	return ipAddress;
 }
 
-apiApp.listen(apiPort, getIpAddress(),function(){
-	console.log('>>> API http listening '+apiPort+' ' + getIpAddress());
+apiApp.listen(apiPort,function(){
+	console.log('>>> API http listening http://'+getIpAddress()+':'+apiPort);
 });

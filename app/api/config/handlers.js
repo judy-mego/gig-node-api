@@ -28,6 +28,7 @@ export default function(app){
 			errorData = err;
 		}
 
+
 		//Server log
 		console.log('-------- error ocurred -------------------');
 		console.log(errorData);
@@ -44,4 +45,4 @@ export default function(app){
 		}
 		res.end();
 	});
-};
+}

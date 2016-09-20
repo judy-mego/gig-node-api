@@ -1,5 +1,5 @@
 import express from 'express';
-import { ApiController, WidgetController } from '../controllers';
+import { ApiController, WidgetController, ConfigController } from '../controllers';
 
 export default function(app){
 
@@ -16,6 +16,11 @@ export default function(app){
     v1.get('/widgets/events', WidgetController.listEvents);
     v1.get('/widgets/articles', WidgetController.listArticle);
     v1.get('/widgets/videos', WidgetController.listVideos);
+
+    // ConfigController
+    // =============================================================================
+    v1.get('/config', ConfigController.config);
+
 
 // Base Setup
 // =============================================================================

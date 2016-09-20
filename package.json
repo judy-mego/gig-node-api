@@ -1,5 +1,5 @@
 {
-  "name": "gig-starter-node-api-kit",
+  "name": "WOAH_MockServer",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gigigo-html5/gig-starter-node-api-kit.git"
+    "url": "git+https://github.com/judy-mego/gig-node-api"
   },
-  "author": "Pedro José Peña <pedro.jose@gigigo.com>",
+  "author": "Judith Medina <judith.medina@gigigo.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gigigo-html5/gig-starter-node-api-kit/issues"
-  },
-  "homepage": "https://github.com/gigigo-html5/gig-starter-node-api-kit#readme",
+  "homepage": "https://github.com/judy-mego/gig-node-api/blob/develop/README.md",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
@@ -33,7 +30,8 @@
     "babel-preset-stage-2": "^6.13.0",
     "babel-register": "^6.11.6",
     "faker": "^3.1.0",
-    "nodemon": "^1.10.2",
-    "ip": "^1.0.1"
+    "ip": "^1.0.1",
+    "jshint": "^2.9.3",
+    "nodemon": "^1.10.2"
   }
 }
