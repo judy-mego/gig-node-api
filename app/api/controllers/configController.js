@@ -8,7 +8,7 @@ class ConfigController {
     }
 
     config(req, res) {
-        ConfigModel.find()
+        ConfigModel.findOne()
             .then((response) => {
                 res.json(JsonService.response(200, response));
             });
