@@ -1,0 +1,122 @@
+{
+"menus": [
+{
+"_id": "123456789",
+"slug": "group-section-main-menu",
+"elements": [
+{
+"segmentation": {
+"requiredAuth": "all"
+},
+"sectionView": {
+"text": "ALL"
+},
+"slug": "all",
+"elementUrl": "/element/openContent/579a2ab2893ba7c1648b45d7"
+},
+{
+"segmentation": {
+"requiredAuth": "all"
+},
+"sectionView": {
+"text": "EVENTS"
+},
+"slug": "events",
+"elementUrl": "/element/openContent/579a2ab2893ba7c1648b0002"
+},
+{
+"segmentation": {
+"requiredAuth": "all"
+},
+"sectionView": {
+"text": "ARTICLES"
+},
+"slug": "articles",
+"elementUrl": "/element/openContent/579a2ab2893ba7c1648b0003"
+},
+{
+"segmentation": {
+"requiredAuth": "all"
+},
+"sectionView": {
+"text": "VIDEOS"
+},
+"slug": "videos",
+"elementUrl": "/element/openContent/579a2ab2893ba7c1648b0004"
+},
+{
+"segmentation": {
+"requiredAuth": "all"
+},
+"sectionView": {
+"text": "PROMOS"
+},
+"slug": "promos",
+"elementUrl": "/element/openContent/579a2ab2893ba7c1648b0005"
+}
+]
+}
+],
+"elementsCache": {
+"/element/openContent/579a2ab2893ba7c1648b45d7": {
+"slug": "all",
+"type": "openContent",
+"tags": [
+"sport",
+"drinks",
+"happiness"
+],
+"render": {
+"contentUrl": "/content/579a2ab2893ba7c1648b45d7"
+}
+},
+"/element/openContent/579a2ab2893ba7c1648b0002": {
+"slug": "events",
+"type": "openContent",
+"tags": [
+"sport",
+"drinks",
+"happiness"
+],
+"render": {
+"contentUrl": "/content/579a2ab2893ba7c1648b0002"
+}
+},
+"/element/openContent/579a2ab2893ba7c1648b0003": {
+"slug": "articles",
+"type": "openContent",
+"tags": [
+"sport",
+"drinks",
+"happiness"
+],
+"render": {
+"contentUrl": "/content/579a2ab2893ba7c1648b0003"
+}
+},
+"/element/openContent/579a2ab2893ba7c1648b0004": {
+"slug": "videos",
+"type": "openContent",
+"tags": [
+"sport",
+"drinks",
+"happiness"
+],
+"render": {
+"contentUrl": "/content/579a2ab2893ba7c1648b0004"
+}
+},
+"/element/openContent/579a2ab2893ba7c1648b0005": {
+"slug": "promos",
+"type": "openContent",
+"tags": [
+"sport",
+"drinks",
+"happiness"
+],
+"render": {
+"contentUrl": "/content/579a2ab2893ba7c1648b0005"
+}
+}
+}
+}

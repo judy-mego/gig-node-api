@@ -4,7 +4,6 @@ import { ConfigModel } from '../../../lib/models';
 class ConfigController {
 
     constructor() {
-
     }
 
     config(req, res) {

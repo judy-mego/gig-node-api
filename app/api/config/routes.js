@@ -1,5 +1,5 @@
 import express from 'express';
-import { ApiController, WidgetController, ConfigController } from '../controllers';
+import { ApiController, ContentController, ConfigController, MenuController } from '../controllers';
 
 export default function(app){
 
@@ -10,12 +10,16 @@ export default function(app){
 // =============================================================================
     v1.get('/', ApiController.index);
 
+// ApiController
+// =============================================================================
+    v1.get('/menus', MenuController.menus);
+
 // WidgetController
 // =============================================================================
-    v1.get('/widgets', WidgetController.listAll);
-    v1.get('/widgets/events', WidgetController.listEvents);
-    v1.get('/widgets/articles', WidgetController.listArticle);
-    v1.get('/widgets/videos', WidgetController.listVideos);
+    v1.get('/content/:content_id', ContentController.contentId);
+    // v1.get('/widgets/events', WidgetController.listEvents);
+    // v1.get('/widgets/articles', WidgetController.listArticle);
+    // v1.get('/widgets/videos', WidgetController.listVideos);
 
     // ConfigController
     // =============================================================================

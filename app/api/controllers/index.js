@@ -1,9 +1,11 @@
-import ApiController from './apiController';
-import WidgetController from './widgetController';
+import ApiController    from './apiController';
+import ContentController from './contentController';
 import ConfigController from './configController';
+import MenuController   from './menuController';
 
 export {
     ApiController,
-    WidgetController,
-    ConfigController
+    ContentController,
+    ConfigController,
+    MenuController
 };
