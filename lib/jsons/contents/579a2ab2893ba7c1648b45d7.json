@@ -57,17 +57,17 @@
 "imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+A+002.png"
 },
 "slug": "article-1",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1111"
+"elementUrl": "/element/webview/579a2ab2893ba7c1648b1111"
 },
 {
 "segmentation": {
-"requiredAuth": "all"
+"requiredAuth": "logged"
 },
 "sectionView": {
 "imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+A+003.png"
 },
-"slug": "article-2",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1112"
+"slug": "browser",
+"elementUrl": "/element/browser/579a2ab2893ba7c1648b1112"
 },
 {
 "segmentation": {
@@ -117,7 +117,7 @@
 "imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+B+001.png"
 },
 "slug": "article-7",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1117"
+"elementUrl": "/element/deeplink/579a2ab2893ba7c1648b1117"
 },
 {
 "segmentation": {
@@ -202,48 +202,26 @@
 ]
 },
 "elementsCache": {
-"/element/article/579a2ab2893ba7c1648b1111": {
-"slug": "article-1",
-"type": "article",
+"/element/webview/579a2ab2893ba7c1648b1111": {
+"slug": "coke-web",
+"type": "webview",
 "tags": [
 "drinks"
 ],
-"preview": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/superior/article+tip+A+001+Copy.png",
-"text": "lorem ipsum",
-"behaviour": "swipe"
-},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+001.png"
-}
-}
-]
+"preview": {},
+"render":{
+  "url" : "http://www.coca-cola.com.mx"
 }
 },
-"/element/article/579a2ab2893ba7c1648b1112": {
-"slug": "article-2",
-"type": "article",
+"/element/browser/579a2ab2893ba7c1648b1112": {
+"slug": "browser",
+"type": "browser",
 "tags": [
 "drinks"
 ],
-"preview": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/superior/article+tip+A+002+Copy.png",
-"text": "lorem ipsum",
-"behaviour": "swipe"
-},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+002.png"
-}
-}
-]
+"preview": {},
+"render":{
+  "url" : "http://www.gigigo.com"
 }
 },
 "/element/article/579a2ab2893ba7c1648b1113": {
@@ -334,26 +312,15 @@
 ]
 }
 },
-"/element/article/579a2ab2893ba7c1648b1117": {
-"slug": "article-7",
-"type": "article",
+"/element/deeplink/579a2ab2893ba7c1648b1117": {
+"slug": "depplink-7",
+"type": "deeplink",
 "tags": [
 "drinks"
 ],
-"preview": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/superior/article+tip+A+007+Copy.png",
-"text": "lorem ipsum",
-"behaviour": "swipe"
-},
+"preview": {},
 "render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+007.png"
-}
-}
-]
+"uri": "myapp://mydepplink"
 }
 },
 "/element/article/579a2ab2893ba7c1648b1118": {

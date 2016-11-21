@@ -1,6 +1,6 @@
 {
 "content": {
-"slug": "home",
+"slug": "promos",
 "type": "content",
 "tags": [
 "sport",
@@ -53,395 +53,204 @@
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"happiness",
+"love",
+"energize",
+"light"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+001.png"
 },
-"slug": "article-2",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1112"
+"slug": "scan-1",
+"elementUrl": "/element/scan/579a2ab2893ba7c1648b1111"
 },
 {
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"happiness"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+002.png"
 },
-"slug": "article-5",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1115"
+"slug": "webview-2",
+"elementUrl": "/element/vuforia/579a2ab2893ba7c1648b1112"
 },
 {
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"happiness"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+003.png"
 },
-"slug": "article-4",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1114"
+"slug": "webview-3",
+"elementUrl": "/element/browser/579a2ab2893ba7c1648b1113"
 },
 {
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"happiness",
+"light"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+004.png"
 },
-"slug": "article-6",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1116"
+"slug": "webview-4",
+"elementUrl": "/element/webview/579a2ab2893ba7c1648b1114"
 },
 {
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"happiness",
+"love",
+"energize",
+"light"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+005.png"
 },
-"slug": "article-7",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1117"
-},
-{
-"segmentation": {
-"requiredAuth": "logged"
-},
-"sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
-},
-"slug": "article-3",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1113"
+"slug": "webview-5",
+"elementUrl": "/element/webview/579a2ab2893ba7c1648b1115"
 },
 {
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"energize",
+"light"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+006.png"
 },
-"slug": "article-8",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1118"
+"slug": "webview-6",
+"elementUrl": "/element/webview/579a2ab2893ba7c1648b1116"
 },
 {
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"energize",
+"light"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+007.png"
 },
-"slug": "article-9",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1119"
+"slug": "webview-7",
+"elementUrl": "/element/webview/579a2ab2893ba7c1648b1117"
 },
 {
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"happiness",
+"love",
+"energize",
+"light"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+008.png"
 },
-"slug": "article-10",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1120"
+"slug": "webview-8",
+"elementUrl": "/element/webview/579a2ab2893ba7c1648b1118"
 },
 {
 "segmentation": {
 "requiredAuth": "all"
 },
+"tags": [
+"light"
+],
 "sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+PROMO+009.png"
 },
-"slug": "article-12",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1122"
-},
-{
-"segmentation": {
-"requiredAuth": "all"
-},
-"sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
-},
-"slug": "article-14",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1124"
-},
-{
-"segmentation": {
-"requiredAuth": "all"
-},
-"sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
-},
-"slug": "article-13",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1123"
-},
-{
-"segmentation": {
-"requiredAuth": "all"
-},
-"sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/feed005.png"
-},
-"slug": "article-11",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1121"
-},
-{
-"segmentation": {
-"requiredAuth": "all"
-},
-"sectionView": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/grid/FEED+A+005.png"
-},
-"slug": "article-4",
-"elementUrl": "/element/article/579a2ab2893ba7c1648b1114"
+"slug": "webview-9",
+"elementUrl": "/element/webview/579a2ab2893ba7c1648b1119"
 }
 ]
 },
 "elementsCache": {
-"/element/article/579a2ab2893ba7c1648b1111": {
-"slug": "article-1",
-"type": "article",
-"tags": [
-"drinks"
-],
+"/element/scan/579a2ab2893ba7c1648b1111": {
+"slug": "scan-1",
+"type": "scan",
+"preview": {
+"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/superior/article+tip+A+004+Copy.png",
+"text": "lorem ipsum",
+"behaviour": "click"
+},
+"render": {}
+},
+"/element/vuforia/579a2ab2893ba7c1648b1112": {
+"slug": "vuforia-2",
+"type": "vuforia",
+"preview": {},
+"render": {}
+},
+"/element/browser/579a2ab2893ba7c1648b1113": {
+"slug": "browser-3",
+"type": "browser",
 "preview": {},
 "render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+001.png"
-}
-}
-]
+"url": "https://alwayson.orchextra.io/bot-ccr"
 }
 },
-"/element/article/579a2ab2893ba7c1648b1112": {
-"slug": "article-2",
-"type": "article",
-"tags": [
-"drinks"
-],
+"/element/webview/579a2ab2893ba7c1648b1114": {
+"slug": "webview-4",
+"type": "webview",
 "preview": {},
 "render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+002.png"
-}
-}
-]
+"url": "https://alwayson.orchextra.io/bot-ccr"
 }
 },
-"/element/article/579a2ab2893ba7c1648b1113": {
-"slug": "article-3",
-"type": "article",
-"tags": [
-"drinks"
-],
+"/element/webview/579a2ab2893ba7c1648b1115": {
+"slug": "webview-5",
+"type": "webview",
 "preview": {},
 "render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+003.png"
-}
-}
-]
+"url": "https://alwayson.orchextra.io/bot-ccr"
 }
 },
-"/element/article/579a2ab2893ba7c1648b1114": {
-"slug": "article-4",
-"type": "article",
-"tags": [
-"drinks"
-],
+"/element/webview/579a2ab2893ba7c1648b1116": {
+"slug": "webview-6",
+"type": "webview",
 "preview": {},
 "render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+004.png"
-}
-}
-]
+"url": "https://alwayson.orchextra.io/bot-ccr"
 }
 },
-"/element/article/579a2ab2893ba7c1648b1115": {
-"slug": "article-5",
-"type": "article",
-"tags": [
-"drinks"
-],
+"/element/webview/579a2ab2893ba7c1648b1117": {
+"slug": "webview-7",
+"type": "webview",
 "preview": {},
 "render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+005.png"
-}
-}
-]
+"url": "https://alwayson.orchextra.io/bot-ccr"
 }
 },
-"/element/article/579a2ab2893ba7c1648b1116": {
-"slug": "article-6",
-"type": "article",
-"tags": [
-"drinks"
-],
+"/element/webview/579a2ab2893ba7c1648b1118": {
+"slug": "webview-8",
+"type": "webview",
 "preview": {},
 "render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+006.png"
-}
-}
-]
+"url": "https://alwayson.orchextra.io/bot-ccr"
 }
 },
-"/element/article/579a2ab2893ba7c1648b1117": {
-"slug": "article-7",
-"type": "article",
-"tags": [
-"drinks"
-],
+"/element/webview/579a2ab2893ba7c1648b1119": {
+"slug": "webview-9",
+"type": "webview",
 "preview": {},
 "render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+007.png"
-}
-}
-]
-}
-},
-"/element/article/579a2ab2893ba7c1648b1118": {
-"slug": "article-8",
-"type": "article",
-"tags": [
-"drinks"
-],
-"preview": {},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+008.png"
-}
-}
-]
-}
-},
-"/element/article/579a2ab2893ba7c1648b1119": {
-"slug": "article-9",
-"type": "article",
-"tags": [
-"drinks"
-],
-"preview": {},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+A+009.png"
-}
-}
-]
-}
-},
-"/element/article/579a2ab2893ba7c1648b1120": {
-"slug": "article-10",
-"type": "article",
-"tags": [
-"drinks"
-],
-"preview": {},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+B+001.png"
-}
-}
-]
-}
-},
-"/element/article/579a2ab2893ba7c1648b1121": {
-"slug": "article-11",
-"type": "article",
-"tags": [
-"drinks"
-],
-"preview": {},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+B+002.png"
-}
-}
-]
-}
-},
-"/element/article/579a2ab2893ba7c1648b1122": {
-"slug": "article-12",
-"type": "article",
-"tags": [
-"drinks"
-],
-"preview": {},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+B+003.png"
-}
-}
-]
-}
-},
-"/element/article/579a2ab2893ba7c1648b1123": {
-"slug": "article-13",
-"type": "article",
-"tags": [
-"drinks"
-],
-"preview": {},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+B+004.png"
-}
-}
-]
-}
-},
-"/element/article/579a2ab2893ba7c1648b1124": {
-"slug": "article-14",
-"type": "article",
-"tags": [
-"drinks"
-],
-"preview": {},
-"render": {
-"elements": [
-{
-"type": "image",
-"render": {
-"imageUrl": "https://s3-eu-west-1.amazonaws.com/stream-public-dev/woahTest/inferior/article+tip+B+005.png"
-}
-}
-]
+"url": "https://alwayson.orchextra.io/bot-ccr"
 }
 }
 }

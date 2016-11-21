@@ -1,0 +1,45 @@
+{
+    "minVersionAndroid": "1.0",
+    "minVersionIOS": "1.0",
+    "updateVersionText": "Estás desactualizado. Para poder seguir utilizando correctamente esta aplicación es necesario que actualices la app",
+    "androidStoreUrl": "http://www.urldeandroidstore.com/discoverapp",
+    "iphoneStoreUrl": "https://itunes.apple.com/us/app/mcdonalds-app/id1114009187?l=es&ls=1&mt=8",
+    "countries": [
+      {
+        "countryCode": "ES",
+        "countryName": "España",
+        "terms": "http://www.coca-cola.it/it/termini-e-condizioni/",
+        "cidUrl": "https://s3-eu-west-1.amazonaws.com/stream-public/cid/it/"
+      },
+      {
+        "countryCode": "RO",
+        "countryName": "Rumania",
+        "terms": "http://www.coca-cola.it/it/termini-e-condizioni/",
+        "cidUrl": "https://s3-eu-west-1.amazonaws.com/stream-public/cid/it/"
+      },
+      {
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "terms": "http://www.coca-cola.it/it/termini-e-condizioni/",
+        "cidUrl": "hhttps://s3-eu-west-1.amazonaws.com/stream-public/cid/it/"
+      },
+      {
+        "countryCode": "GR",
+        "countryName": "Greece",
+        "terms": "http://www.coca-cola.it/it/termini-e-condizioni/",
+        "cidUrl": "https://s3-eu-west-1.amazonaws.com/stream-public/cid/it/"
+      },
+      {
+        "countryCode": "HU",
+        "countryName": "Hungary",
+        "terms": "http://www.coca-cola.it/it/termini-e-condizioni/",
+        "cidUrl": "https://s3-eu-west-1.amazonaws.com/stream-public/cid/it/"
+      },
+      {
+        "countryCode": "PL",
+        "countryName": "Poland",
+        "terms": "http://www.coca-cola.it/it/termini-e-condizioni/",
+        "cidUrl": "https://s3-eu-west-1.amazonaws.com/stream-public/cid/it/"
+      }
+    ]
+  }

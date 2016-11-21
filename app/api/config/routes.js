@@ -23,7 +23,7 @@ export default function(app){
 
     // ConfigController
     // =============================================================================
-    v1.get('/config', ConfigController.config);
+    v1.get('/configuration', ConfigController.config);
 
 
 // Base Setup
